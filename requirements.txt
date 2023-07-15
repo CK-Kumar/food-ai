@@ -8,3 +8,4 @@ Pillow
 SQLAlchemy
 torch
 torchvision
+gunicorn
