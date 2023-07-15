@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+python-dotenv
+fastai
+torch
+torchvision
+Flask-Cors
