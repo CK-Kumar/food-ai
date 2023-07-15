@@ -9,3 +9,4 @@ SQLAlchemy
 torch
 torchvision
 gunicorn
+python-dotenv
